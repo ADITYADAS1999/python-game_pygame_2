@@ -1,7 +1,8 @@
 # python-game_pygame_2
 
 
-![images](https://user-images.githubusercontent.com/58718316/190656133-9cbfda8d-257f-4e3a-b73c-c7fcd895a6e1.jpg)
+![2522](https://user-images.githubusercontent.com/58718316/190840561-b6a392d9-152c-4793-aa9a-09162e7f1279.PNG)
+
 
 
 ![Get-a-job-in-gaming-scaled](https://user-images.githubusercontent.com/58718316/190656143-6580afd4-57b1-47d6-bcbc-989ac4318d9b.jpg)
